@@ -1,0 +1,9 @@
+{
+  "name": "TRMJsCookies",
+  "version": "1.0.0",
+  "description": "Functions for working with cookies in JS",
+  "keywords": "cookie javascript",
+  "homepage": "https://github.com/trm2007/TRMJsCookies",
+  "license": "X11 License",
+  "author": "Sergey Kolesnikov <trm@mail.ru>"
+}
