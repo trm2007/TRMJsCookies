@@ -42,7 +42,7 @@ if(PHPSESID !== undefined) {
 ### Пример
 ```js
 // устанавливает cookie с именем UserId в значение 123 сроком на 86400 секунд - 1 сутки
-getCookie("UserId", 123, {"max-age": 86400});
+setCookie("UserId", 123, {"max-age": 86400});
 ```
 
 ## deleteCookie
